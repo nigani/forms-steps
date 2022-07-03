@@ -1,4 +1,4 @@
-# Домашнее задание "Работа с формами. Конвертер цветов из HEX в RGB"
+# Домашнее задание "Работа с формами. Учёт тренировок"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
